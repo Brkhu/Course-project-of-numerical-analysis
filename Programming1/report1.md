@@ -15,4 +15,4 @@
 ```
 
 考虑分划为 $[0,600]$ 上等长的 $M$ 个区间, 每个区间上采用 $K$ 个 Chebyshev 节点离散化. 用直接解得的 $\bar\sigma$ 与真实解做对比, 通过每个区间上 Clenshaw-Curtis 积分近似得到的 $L^2$-范数图像如下:
-![/Err.png]
+![Programming1/Err.png]
